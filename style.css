@@ -1,0 +1,108 @@
+body {
+  margin: 0px;
+  color: white;
+  padding: 0px;
+  background: url("/bg.jpg");
+  font-family: "Poppins", sans-serif;
+}
+
+.left {
+  display: inline-block;
+  /* border: 2px solid red; */
+  position: absolute;
+  left: 5px;
+  top: 20px;
+}
+
+.mid {
+  display: block;
+  width: 45%;
+  /* border: 2px solid grey; */
+  margin: 20px auto;
+}
+
+.right {
+  position: absolute;
+  right: 34px;
+  top: 20px;
+  display: inline-block;
+  /* border: 2px solid brown; */
+  margin-right: 5px;
+}
+
+.navbar {
+  display: inline-block;
+}
+
+.navbar li {
+  display: inline-block;
+  font-size: 20px;
+}
+
+.navbar li a {
+  color: white;
+  text-decoration: none;
+  padding: 0px 14px;
+}
+
+.navbar li a:hover,
+.navbar li a:active {
+  color: grey;
+  text-decoration: underline;
+  display: inline-block;
+}
+
+.left img {
+  width: 50px;
+  margin: 12px 22px;
+}
+
+.left div {
+  text-align: center;
+}
+
+.btn {
+  margin: 30px 9px;
+  color: white;
+  background-color: black;
+  padding: 4px 14px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+}
+
+.btn:hover {
+  background-color: rgb(31, 30, 30);
+}
+
+.container {
+  /* border: 5px solid gray; */
+  margin: 72px 62px;
+  padding: 55px;
+  width: 40%;
+  border-radius: 17px;
+}
+
+.formgroup input {
+  text-align: center;
+  display: block;
+  width: 344px;
+  padding: 6px;
+  border: 2px solid grey;
+  margin: 4px auto;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  border-radius: 8px;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+.container button {
+  display: block;
+  width: 233px;
+  margin: 20px auto;
+}
