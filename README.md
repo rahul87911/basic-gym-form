@@ -12,7 +12,7 @@
 
 # Preview
 <p float="left">
-  <img src="img/img_1.png" width="500" />
+  <img src="images/img_1.png" width="500" />
   </p>
 
 # Credits
