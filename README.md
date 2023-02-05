@@ -11,6 +11,9 @@
 - `HTML5`, `CSS`
 
 # Preview
+<p float="left">
+  <img src="img/img_1.png" width="500" />
+  </p>
 
 # Credits
 - <a href="https://github.com/rahul87911">RAHUL MISHRA</a> 
